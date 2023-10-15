@@ -1,11 +1,11 @@
-### Hi there 👋
+## Hi there 👋
 
 This repository includes some of my projects throughout my 2 years at the University of Bath.
 
 Programming Experience: Python Java C C# ReactJS
 I mainly use Python and am familiar with libraries such as NumPy, pandas and seaborn
 
-# First Year
+### First Year
 - Discrete Mathematics
 - Principles of Programming
 - Computer Systems Architecture
@@ -13,7 +13,7 @@ I mainly use Python and am familiar with libraries such as NumPy, pandas and sea
 - Software Processes and Modelling
 - Mathematics for Computation
 
-# Second Year
+### Second Year
 - Machine Learning
 - Experimental Systems Project
 - Visual Computing
