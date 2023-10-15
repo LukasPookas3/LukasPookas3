@@ -2,7 +2,7 @@
 
 This repository includes some of my projects throughout my 2 years at the University of Bath.
 
-Programming Experience: Python Java C C# ReactJS
+Programming Experience: Python Java C C# ReactJS<br>
 I mainly use Python and am familiar with libraries such as NumPy, pandas and seaborn
 
 ### First Year
